@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Tech Event","image":"https://www.travelperk.com/wp-content/uploads/alexandre-pellaes-6vAjp0pscX0-unsplash-1-1.jpg","date":"2023-07-09","description":"This is the upcoming  Tech event happening at the Trinity towers, Victoria Island Lagos and it would be for upcoming Developers who are interested in the React technology.","id":"f4516bcf-68bd-4cb9-8908-95e10af9430b"},{"title":"New Event!!","image":"https://guardian.ng/wp-content/uploads/2016/11/Event-Planning.jpg","date":"2023-06-23","description":"New event","id":"0ac46bde-a75a-4231-bc13-81158412eaeb"}],"users":[{"email":"test@test.com","password":"$2a$12$3MvftPxemQ1VhaKAXtb8R.ajx9FkJj76jg9xzPugLJRuuXoNnCPL6","id":"47ae26e9-f600-4e0e-9a43-6cc9b1674b54"},{"email":"test@test3.com","password":"$2a$12$t.nA6pqnGS4YWTAwaJ4ufeDgWbixK.vVK1.J.Z.Tu2yUp3YJTMJka","id":"4f00f1bf-f97d-4570-a11f-32049f1c8514"}]}
